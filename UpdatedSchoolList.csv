@@ -1,0 +1,65 @@
+Name,Physical Address,Region,Sector,Is FAFT School,Is Pre School,Is Primary School,Is Middle School,Is Senior School,latitude,longitude
+Alawa Pre School,"27 Pett St, Alawa, NT",Darwin,,No,Yes,No,No,No,-12.379972,130.876298
+Alawa Primary School,"27 Pett Street, Alawa, 0810, NT",Darwin,Government,No,Yes,Yes,No,No,-12.379972,130.876298
+Anula Pre School,"73 Yanyula Dr, Anula, NT",Darwin,,No,Yes,No,No,No,-12.3911277,130.8934829
+Anula Primary School,"73 Yanyula Dr, Anula, 0812, NT",Darwin,Government,No,Yes,Yes,No,No,-12.3911277,130.8934829
+Casuarina Senior College,"61 Parer Dr, Moil, 0810, NT",Darwin,Government,No,No,No,No,Yes,-12.3835781,130.8789771
+Darwin High School,"10 Atkins Dr, The Gardens, 0820, NT",Darwin,Government,No,No,No,No,Yes,-12.4393329,130.8343074
+Darwin Languages Centre,"1 Nemarluk Dr, Ludmilla, NT, NT",Darwin,Government,No,No,No,No,No,-12.4225979,130.8556974
+Darwin Middle School,"Atkins Drive, The Gardens, NT 0820, not available, NT",Darwin,Government,No,No,No,Yes,No,-12.4405491,130.8353484
+Dripstone Middle School,"10 Delamere St, Tiwi, 0810, NT",Darwin,Government,No,No,No,Yes,No,-12.3666022,130.8831508
+Essington School,"22 Chapman Rd, Rapid Creek, NT",Darwin,Independent,No,Yes,Yes,Yes,Yes,-12.3822553,130.8571906
+Family as First Teachers,"Mitchell St, Darwin, 0800, NT",Darwin,Government,No,Yes,Yes,No,No,-12.4596384,130.8362262
+Good Shepherd - Leanyer Campus,"94 Leanyer Drive, Leanyer, NT",Darwin,Independent,No,Yes,Yes,No,No,-12.3739374,130.8990294
+Haileybury Rendall School,"6057 Berrimah Road, Berrimah, NT",Darwin,Independent,No,No,No,Yes,Yes,-12.4429304,130.9229786
+Henbury School,"11 Henbury Avenue, Tiwi, 0810, NT",Darwin,Government,No,No,No,Yes,Yes,-12.3679973,130.8840788
+Holy Family Catholic School,"Calytrix Road, Karama, NT",Darwin,Catholic,No,No,Yes,No,No,-12.3946461,130.9118506
+Holy Spirit Catholic School,"Gsell Street, Casuarina, NT",Darwin,Catholic,No,No,Yes,No,No,-12.3735313,130.8856786
+Jingili Preschool,"10 Jingili Tce, Jingili, NT",Darwin,,No,Yes,No,No,No,-12.3890957,130.8762393
+Jingili Primary School,"17 Rindberg St, Jingili, 0810, NT",Darwin,Government,No,Yes,Yes,No,No,-12.387197,130.874235
+Karama Pre School,"37 Livistona Rd, Karama, NT",Darwin,,No,Yes,No,No,No,-12.3977472,130.914722
+Karama Primary School,"37 Livistona Rd, Karama, 0812, NT",Darwin,Government,No,Yes,Yes,No,No,-12.3977472,130.914722
+Larrakeyah Pre School,"3 Packard St, Larrakeyah, NT",Darwin,,No,Yes,No,No,No,-12.4573463,130.8296204
+Larrakeyah Primary School,"3 Packard St, Larrakeyah, 0820, NT",Darwin,Government,No,Yes,Yes,No,No,-12.4573463,130.8296204
+Leanyer Pre School,"114 Leanyer Dr, Leanyer, NT",Darwin,,No,Yes,No,No,No,-12.3748207,130.8997537
+Leanyer Primary School,"114 Leanyer Drive,, Leanyer, 0812, NT",Darwin,Government,No,Yes,Yes,No,No,-12.3748207,130.8997537
+Ludmilla Pre School,"41 Bagot Rd, Ludmilla, NT",Darwin,,No,Yes,No,No,No,-12.4249429,130.8550653
+Ludmilla Primary School,"41 Bagot Rd, Ludmilla, 0820, NT",Darwin,Government,Yes,Yes,Yes,No,No,-12.4249429,130.8550653
+Malak Pre School,"45 Malak Cres, Malak, NT",Darwin,,No,Yes,No,No,No,-12.3916412,130.9030117
+Malak Primary School,"45 Malak Cres, Malak, 0812, NT",Darwin,Government,Yes,Yes,Yes,No,No,-12.3916412,130.9030117
+Manunda Terrace Pre School,"31 Manunda Tce, Karama, NT",Darwin,,No,Yes,No,No,No,-12.4033623,130.9191954
+Manunda Terrace Primary School,"31 Manunda Tce, Karama, 0812, NT",Darwin,Government,No,Yes,Yes,No,No,-12.4033623,130.9191954
+Marrara Christian School,"110 Amy Johnson Ave, Marrara, NT",Darwin,Christian,No,Yes,Yes,Yes,Yes,-12.409548,130.916825
+Milkwood Steiner,"107 Boulter Road, Berrimah NT 0828, Marrara, NT",Darwin,Independent,No,Yes,Yes,No,No,-12.4144888,130.9224316
+Millner Pre School,"41 Sabine Rd, Millner, NT",Darwin,,No,Yes,No,No,No,-12.3911367,130.8596771
+Millner Primary School,"41 Sabine Rd, Millner, 0810, NT",Darwin,Government,No,Yes,Yes,No,No,-12.3911367,130.8596771
+Mimik-Ga Centre,"4 Henbury Ave, Wanguri, 0810, NT",Darwin,Government,Yes,Yes,Yes,No,No,-12.3689026,130.8837432
+Moil Pre School,"Moil Crescent, Moil, NT",Darwin,,No,Yes,No,No,No,-12.388306,130.8796493
+Moil Primary School,"37 Lanyon Tce, Moil, 0810, NT",Darwin,Government,No,No,No,No,No,-12.387948,130.880671
+Nakara Pre School,"35 Nakara Tce, Nakara, NT",Darwin,,No,Yes,No,No,No,-12.370146,130.877767
+Nakara Primary School,"35 Nakara Tce, Nakara, 0810, NT",Darwin,Government,No,Yes,Yes,No,No,-12.370146,130.877767
+Nemarluk School,"30 Styles St, Alawa, 0810, NT",Darwin,Government,No,Yes,Yes,No,No,-12.3796554,130.8746792
+Nightcliff Middle School,"90 Aralia St, Rapid Creek, 0810, NT",Darwin,Government,No,No,No,Yes,No,-12.3781761,130.851193
+Nightcliff Pre School,"17 Pandanus St, Nightcliff, NT",Darwin,,No,Yes,No,No,No,-12.3808645,130.8502447
+Nightcliff Primary School,"17 Pandanus St, Nightcliff, 0810, NT",Darwin,Government,No,No,Yes,No,No,-12.3808645,130.8502447
+NT Music School,"60 Matthews Rd, Wulagi 0812, NT",Darwin,Government,No,No,Yes,Yes,Yes,-12.3880884,130.8986295
+NT School of Distance Education,"The Bullocky Point Education Precinct, Atkins Dr, The Gardens, 0820, NT",Darwin,Government,No,No,No,No,Yes,-12.4405491,130.8353484
+O'Loughlin Catholic College,"70 Mueller Rd, Karama, NT",Darwin,Catholic,No,No,No,Yes,Yes,-12.3945338,130.9104331
+Parap Pre School,"61 Ross Smith Ave, Parap, NT",Darwin,,No,Yes,No,No,No,-12.4283665,130.842661
+Parap Primary School,"52 Urquhart Street, Parap, 0820, NT",Darwin,Government,No,Yes,Yes,No,No,-12.4305235,130.846056
+Royal Darwin Hospital School,"Rocklands Drive, Tiwi, Tiwi, 0810, NT",Darwin,Government,No,No,No,No,No,-12.3594605,130.8789998
+Sanderson Middle School,"60 Matthews Rd, Malak, 0812, NT",Darwin,Government,No,No,No,Yes,No,-12.388701,130.898671
+School of Sport Education NT,"1 Nemarluk Drive, Ludmilla, NT, 0820, NT",Darwin,Government,No,No,Yes,Yes,Yes,-12.4225979,130.8556974
+St Johns Catholic College,"54 Salonika St, The Gardens, NT",Darwin,Catholic,No,No,No,Yes,Yes,-12.443771,130.839785
+St Mary's Catholic School,"3 Lindsay St, Darwin City, NT",Darwin,Catholic,No,No,Yes,No,No,-12.4596401,130.8388832
+St Pauls Catholic School,"41 Francis St, Rapid Creek, NT",Darwin,Catholic,No,No,Yes,No,No,-12.3872422,130.8583051
+Stuart Park Pre School,"8 Nudl St, Stuart Park, NT",Darwin,,No,Yes,No,No,No,-12.4407695,130.8453842
+Stuart Park Primary School,"8 Nudl St, Stuart Park, 0820, NT",Darwin,Government,No,Yes,Yes,No,No,-12.4407695,130.8453842
+Tivendale School,"Tivendale Road, Berrimah, 0828, NT",Darwin,Government,No,No,No,No,No,-12.4492057,130.9452318
+Top End School of Flexible Learning,"1 Malak Place, Malak, 0812, NT",Darwin,Government,No,No,No,No,No,-12.3962115,130.9039302
+Wagaman Pre School,"35 Wagaman Tce, Wagaman, NT",Darwin,,No,Yes,No,No,No,-12.3800006,130.8845725
+Wagaman Primary School,"35 Wagaman Tce, Wagaman, 0810, NT",Darwin,Government,No,Yes,Yes,No,No,-12.3800006,130.8845725
+Wanguri Pre School,"46 Gsell St, Wanguri, NT",Darwin,,No,Yes,No,No,No,-12.371119,130.8871788
+Wanguri Primary School,"46 Gsell St, Wanguri, 0810, NT",Darwin,Government,No,Yes,Yes,No,No,-12.371119,130.8871788
+Wulagi Pre School,"24 Brolga St, Wulagi, NT",Darwin,,No,Yes,No,No,No,-12.3833716,130.8953129
+Wulagi Primary School,"24 Brolga St, Wulagi, 0812, NT",Darwin,Government,No,Yes,Yes,No,No,-12.3833716,130.8953129
