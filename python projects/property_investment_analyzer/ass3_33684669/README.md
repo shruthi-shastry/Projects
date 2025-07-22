@@ -1,4 +1,4 @@
-# 🏘️ Property Investment Analyzer – Python (FIT9136 Assignment 3)
+# 🏘️ Property Investment Analyzer – Python 
 
 This project is a data analysis and visualization tool developed for a fictional property investment company in Melbourne, Australia.
 Built as part of **FIT9136: Algorithms and Programming Foundations**, it showcases data manipulation, statistical analysis, and interactive plotting using Python libraries.
