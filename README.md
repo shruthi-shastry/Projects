@@ -26,5 +26,5 @@ Hi, I’m **Shruthi Shashidhara Shastry**, a results-driven Data Science graduat
 
 ---
 
-> “Turning data into decisions — and insights into impact.”_
+“Turning data into decisions — and insights into impact.”
 
