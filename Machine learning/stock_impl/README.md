@@ -89,14 +89,14 @@ Versions of packages used :
 
 Steps to Run Final Model : The ipynb file is divided into the following sections 
 
-1.Data Pre Processing 
-2.Exploratory Data Analysis 
-3.Feature Engineering
-4.Data Transformation 
-5.Feature Selection
-6.Lagged Feature 
-7.Model Tuning 
-8.Model Training 
+- 1.Data Pre Processing 
+- 2.Exploratory Data Analysis 
+- 3.Feature Engineering
+- 4.Data Transformation 
+- 5.Feature Selection
+- 6.Lagged Feature 
+- 7.Model Tuning 
+- 8.Model Training 
 
 In order to train model and generate predictions you can run the sections from Step 1 to Step 6 and then run the code under Step 8.
 
