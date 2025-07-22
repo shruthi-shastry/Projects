@@ -79,13 +79,13 @@ Programming environment  Python 3.9.12;
 
 Versions of packages used : 
 
-Numpy version: 1.26.4
-Pandas version: 2.1.4
-Seaborn version: 0.13.1
-Scikit-learn version: 1.3.2
-MLXtend version: 0.23.1
-SciPy version: 1.13.1
-Statsmodels version: 0.14.2
+- Numpy version: 1.26.4
+- Pandas version: 2.1.4
+- Seaborn version: 0.13.1
+- Scikit-learn version: 1.3.2
+- MLXtend version: 0.23.1
+- SciPy version: 1.13.1
+- Statsmodels version: 0.14.2
 
 Steps to Run Final Model : The ipynb file is divided into the following sections 
 
