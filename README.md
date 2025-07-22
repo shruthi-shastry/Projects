@@ -10,11 +10,11 @@ Hi, I’m **Shruthi Shashidhara Shastry**, a results-driven Data Science graduat
 
 ## 🧠 Core Skills
 
-Programming Languages: Python, R, Java, SQL
-Data Exploration & Visualization: Tableau, R Shiny, Power BI, Excel, Jupyter Notebook
-Databases: PostgreSQL, MySQL, MongoDB
-Machine Learning & NLP: Scikit-learn, Regression, Classification, Sentiment Analysis, NLP
-Big Data & Tools: Apache Spark, Apache Kafka, GitHub, JIRA
+- **Programming Languages**: Python, R, Java, SQL
+- **Data Exploration & Visualization**: Tableau, R Shiny, Power BI, Excel, Jupyter Notebook
+- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Machine Learning & NLP**: Scikit-learn, Regression, Classification, Sentiment Analysis, NLP
+- **Big Data & Tools**: Apache Spark, Apache Kafka, GitHub, JIRA
 
 ---
 
