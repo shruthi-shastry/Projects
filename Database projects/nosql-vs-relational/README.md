@@ -7,10 +7,10 @@ Developed for **FIT9132: Introduction to Databases**, the task demonstrates adva
 
 ## 🎯 Assignment Objectives
 
-- ✅ Apply the theories of the **relational database model**
-- ✅ Manage data via **SQL queries** and **transactions**
-- ✅ Compare **NoSQL models** (MongoDB) with traditional RDBMS
-- ✅ Practice writing **relational algebra**, SQL, and MongoDB commands
+-  Apply the theories of the **relational database model**
+-  Manage data via **SQL queries** and **transactions**
+-  Compare **NoSQL models** (MongoDB) with traditional RDBMS
+-  Practice writing **relational algebra**, SQL, and MongoDB commands
 
 ---
 
