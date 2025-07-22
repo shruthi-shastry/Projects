@@ -20,7 +20,7 @@ Hi, I’m **Shruthi Shashidhara Shastry**, a results-driven Data Science graduat
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shruthi-shashidhara-shastry)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shruthi-shashidhara-shastry-172892214/)
 - 📧 shruthisshastry@outlook.com
 - 📍 71732 Tamm, Germany
 
