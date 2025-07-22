@@ -1,4 +1,4 @@
-# 🎮 Gomoku Board Game – Python (FIT9136 Assignment 1)
+# 🎮 Gomoku Board Game – Python
 
 This project implements a simplified **Gomoku (Five-in-a-Row)** board game in Python.
 Built as part of **FIT9136: Algorithms and Programming Foundations**, this terminal-based application demonstrates control flow, function design, and data structures in Python.
