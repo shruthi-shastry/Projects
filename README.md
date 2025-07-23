@@ -3,7 +3,7 @@
 Hi, I’m **Shruthi Shashidhara Shastry**, a results-driven Data Science graduate passionate about building impactful data solutions. This repository is a curated collection of my academic,and personal projects that demonstrate my proficiency in Python, machine learning, data analysis and visualization, data wrangling and big data.
 
 📍 **Location**: Germany  
-💼 **Current Status**: Open to roles in Data Science, Machine Learning, or Analytics  
+💼 **Current Status**: Open to roles in Data Science such as Data analyst, data engineer, Machine Learning, or Analytics  
 🛂 **Work Authorization**: Opportunity Card (Chancenkarte)
 
 ---
