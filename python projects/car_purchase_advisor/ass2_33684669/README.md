@@ -1,7 +1,7 @@
 # 🚗 Car Purchase Advisor System – Python
 
 This project implements a terminal-based **Car Purchase Advisor** using Python’s object-oriented programming principles.
-Created as part of **FIT9136: Algorithms and Programming Foundations**, it simulates operations for car retailers, stock tracking, and order placement.
+Created as part of **Algorithms and Programming Foundations**, it simulates operations for car retailers, stock tracking, and order placement.
 
 ---
 
