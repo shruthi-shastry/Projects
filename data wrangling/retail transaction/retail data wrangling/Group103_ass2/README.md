@@ -1,4 +1,4 @@
-# 🛒 Online Retail Data Wrangling & Transformation – Python (FIT5196 A2)
+# 🛒 Online Retail Data Wrangling & Transformation – Python
 
 This project focuses on **data cleaning, transformation, and normalization** of transactional retail data for DigiCO, a fictional online electronics store. 
 It was developed for **Data Wrangling**.
