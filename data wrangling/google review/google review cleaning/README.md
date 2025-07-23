@@ -1,7 +1,7 @@
 # 📝 Google Reviews Data Cleaning & Exploration – Python
 
 This project involves parsing, cleaning, preprocessing, and exploring large-scale **Google Maps review data**.
-It was developed as part of **FIT5196: Data Wrangling** coursework.
+It was developed as part of **Data Wrangling** coursework.
 
 ---
 
