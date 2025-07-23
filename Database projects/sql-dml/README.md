@@ -1,7 +1,7 @@
 # 🦷 Monash New Smile – SQL Database Implementation & Manipulation 
 
 This project demonstrates hands-on SQL development and transaction control using Oracle for a dental clinic system called **Monash New Smile (MNS)**. 
-Developed as part of **FIT9132: Introduction to Databases**, it focuses on schema design, sample data population, advanced DML operations, schema modifications, and transaction theory.
+Developed as part of **Introduction to Databases**, it focuses on schema design, sample data population, advanced DML operations, schema modifications, and transaction theory.
 
 ---
 
