@@ -1,7 +1,7 @@
 # 🐾 Pets First – Conceptual & Logical Database Design
 
 This project represents a complete **conceptual and logical database design** for a veterinary practice system called **Pets First**, 
-developed as part of **FIT9132: Introduction to Databases** at Monash University.
+developed as part of **Introduction to Databases** at Monash University.
 
 It spans a case study was progressively developed from entity-relationship modeling to Oracle schema creation and normalization.
 
