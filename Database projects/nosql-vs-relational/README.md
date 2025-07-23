@@ -1,7 +1,7 @@
 # 🔀 Relational vs. Non-Relational Database Queries – Monash New Smile 
 
 This project contrasts **relational (Oracle SQL & relational algebra)** and **non-relational (MongoDB)** query approaches for a healthcare database case study.
-Developed for **FIT9132: Introduction to Databases**, the task demonstrates advanced querying, JSON document generation, and real-world data modeling.
+Developed for **Introduction to Databases**, the task demonstrates advanced querying, JSON document generation, and real-world data modeling.
 
 ---
 
