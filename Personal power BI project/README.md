@@ -60,9 +60,12 @@ The dashboard provides actionable insights into patient health metrics and diabe
 ## 🚀 How to Use
 
 1. Clone this repository
-2. Open `DiabetesDashboard.pbix` using Power BI Desktop
+2. Open `Diabetes_dashboard.pbix` using Power BI Desktop
 3. Interact with the dashboard: use dropdowns, sliders, and the reset button
 4. Analyze how glucose, BMI, and age contribute to diabetes risk
 
 ---
 
+## Screenshot 
+
+<img width="641" height="359" alt="image" src="https://github.com/user-attachments/assets/fdc23764-ba65-473a-a459-56cc4d6faef5" />
